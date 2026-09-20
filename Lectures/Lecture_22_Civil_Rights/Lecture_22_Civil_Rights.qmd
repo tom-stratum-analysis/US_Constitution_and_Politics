@@ -1,0 +1,64 @@
+---
+title: "Lecture 22: Civil Rights"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# Civil Rights
+
+## By the end of today
+
+You will be able to distinguish civil liberties from civil rights and recognize two competing strategies for expanding who those protections cover.
+
+Civil liberties: limits on government force.
+
+Civil rights: equal claim to those limits — and to the ordinary benefits of membership.
+
+Early civil rights work was often this: stop discriminating in who gets the liberties.
+
+The principles were claimed as true while the practice excluded people.
+
+## Two approaches
+
+King: nonviolent pressure aimed at the conscience of a majority that already claimed the Declaration.
+
+Malcolm X: if the system will not treat you as a member, the ballot is not the only tool.
+
+Both are arguments about force. The question is who government protects, who it targets, and what citizens may do when it fails.
+
+## Discussion
+
+1. Where does expanding liberties to the excluded end and a new claim begin?
+2. What is still owed along these same lines?
+3. When, if ever, is “by any means necessary” compatible with a society of dignified equals?
+
+## Next
+
+Direct Action — the citizen toolkit beyond the ballot
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [The Unfinished Contract](https://www.tiktok.com/@us_politics_explained/video/7550094528380800269)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

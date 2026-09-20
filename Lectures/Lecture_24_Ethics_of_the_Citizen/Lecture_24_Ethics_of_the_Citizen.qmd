@@ -1,0 +1,64 @@
+---
+title: "Lecture 24: Ethics of the Citizen"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# Ethics of the Citizen
+
+## By the end of today
+
+You will be able to treat voting as a moral act — the delegation of coercive force — and apply reciprocity to that choice.
+
+We began with ethics and force. We end with the citizen who hires that force.
+
+If government derives just power from consent, we are the clients. Government is the hired force.
+
+Jason Brennan: “The symbol of democracy is not just the ballot — it is the ballot connected to a gun.”
+
+Hillel: what is hateful to you, do not do to your neighbor.
+
+Applied to voting: what is hateful to you, do not vote for the government to do to your neighbor.
+
+The right to vote is not the same thing as the rightness of a particular vote.
+
+Texas secession referendum, 1861, is a hard case: a majority voted to protect slavery. Unintended emancipation did not make the intention ethical.
+
+If you vote: understand the thing at its core. Do not outsource that understanding. Vote to protect equal rights — including your own.
+
+## Discussion
+
+1. Is it ever unethical to vote — or unethical *not* to vote?
+2. When is a self-interested vote still compatible with equal rights?
+3. When, if ever, do you owe more than a ballot?
+
+## Next
+
+A short goodbye lecture.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [The Trolley Problem](https://www.tiktok.com/@us_politics_explained/video/7542711806813375757)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

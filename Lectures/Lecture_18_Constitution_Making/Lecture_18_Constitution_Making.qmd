@@ -1,0 +1,73 @@
+---
+title: "Lecture 18: Constitution Making"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# Constitution Making
+
+## By the end of today
+
+You will be able to distinguish constitutional politics from ordinary politics and recognize why some American decisions require more than a simple majority.
+
+## Two kinds of politics
+
+Constitutional politics sets the rules. Ordinary politics plays inside them.
+
+Constitutional politics: near-consensus, hard to change, about the structure of power and the rights that majorities may not touch.
+
+Ordinary politics: usually simple majorities — taxes, spending, appointments, ordinary statutes. Winners and losers rotate.
+
+If every election can rewrite the rules, the minority has no reason to stay in the game.
+
+## American ordinary politics is not always 50% + 1
+
+Electoral College. Senate representation. Supermajorities for some acts. Presentment and veto.
+
+Presidents are chosen by states as states, not by a single national pool. That is a constitutional rule, not a glitch in ordinary voting.
+
+Treaties, impeachment conviction, and veto overrides require two-thirds.
+
+Amendments: two-thirds of both houses, three-fourths of the states.
+
+## Extra-constitutional institutions
+
+The filibuster is a Senate practice, not a clause. It raises the cost of ordinary legislation and can be changed by the Senate itself.
+
+## Discussion
+
+1. What should be off-limits to a simple majority?
+2. Is the Electoral College ordinary politics or constitutional politics?
+3. Should the filibuster stay, shrink, or go?
+
+## Next
+
+The Courts — defender of the system
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [The Unfinished Contract](https://www.tiktok.com/@us_politics_explained/video/7550094528380800269)
+- [US Government — Designed to be slow](https://www.tiktok.com/@us_politics_explained/video/7549817504567217422)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
