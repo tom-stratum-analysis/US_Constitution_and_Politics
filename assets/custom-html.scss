@@ -1,6 +1,22 @@
 /*-- scss:defaults --*/
-$tpp-navy: #1b3a4b;
-$tpp-steel: #4a7c9b;
+$tpp-ink: #102A3A;
+$tpp-navy: #17384A;
+$tpp-steel: #3A6E8C;
+$tpp-mist: #F3F7FA;
 $link-color: $tpp-steel;
+$body-color: $tpp-ink;
+
 /*-- scss:rules --*/
-.navbar { background-color: $tpp-navy; }
+.navbar {
+  background-color: $tpp-navy !important;
+}
+
+body {
+  color: $tpp-ink;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $tpp-navy;
+}
+
+a { color: $tpp-steel; }

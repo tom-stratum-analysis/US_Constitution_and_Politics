@@ -1,13 +1,13 @@
 /*-- scss:defaults --*/
 
-// The Politics Professor — blue-grey
-$tpp-ink: #15202b;
-$tpp-navy: #1b3a4b;
-$tpp-slate: #3d5a6c;
-$tpp-steel: #4a7c9b;
-$tpp-mist: #e8eef2;
-$tpp-paper: #f4f7f9;
-$tpp-white: #ffffff;
+// The Politics Tutor — light blue-grey field, navy text
+$tpp-ink: #102A3A;
+$tpp-navy: #17384A;
+$tpp-slate: #2C5163;
+$tpp-steel: #3A6E8C;
+$tpp-mist: #F3F7FA;
+$tpp-paper: #F8FBFC;
+$tpp-white: #FFFFFF;
 
 $body-bg: $tpp-mist;
 $body-color: $tpp-ink;
@@ -23,7 +23,7 @@ $presentation-heading-color: $tpp-navy;
   --r-link-color: #{$tpp-steel} !important;
   --r-link-color-hover: #{$tpp-navy} !important;
   --r-selection-background-color: #{$tpp-navy} !important;
-  --r-selection-color: #{$tpp-mist} !important;
+  --r-selection-color: #{$tpp-paper} !important;
 }
 
 html,
@@ -36,6 +36,18 @@ body,
 .reveal .backgrounds {
   background-color: $tpp-mist !important;
   background: $tpp-mist !important;
+  color: $tpp-ink;
+}
+
+.reveal {
+  color: $tpp-ink !important;
+}
+
+.reveal p,
+.reveal li,
+.reveal blockquote,
+.reveal table {
+  color: $tpp-ink;
 }
 
 .reveal h1,
@@ -61,17 +73,23 @@ body,
   color: $tpp-navy;
   background-color: $tpp-mist !important;
   img {
-    border: 2px solid $tpp-navy;
-    padding: 2px;
-    height: 50px;
+    height: 52px;
     width: auto;
+    padding: 0;
+    border: 0;
+    background: transparent;
   }
+}
+
+.reveal .slide-logo {
+  max-height: 56px !important;
+  max-width: 160px !important;
 }
 
 .sectionhead {
   font-size: 1em;
   text-align: center;
-  color: $tpp-mist;
+  color: $tpp-paper;
   background-color: $tpp-navy;
   margin: 1px;
   padding: 2px;
@@ -80,7 +98,7 @@ body,
 }
 
 .blackbox {
-  color: $tpp-mist;
+  color: $tpp-paper;
   background-color: $tpp-navy;
   margin: 1px;
   padding: 5px 2px;
@@ -90,17 +108,17 @@ body,
 
 .section-header {
   background-color: $tpp-navy;
-  color: $tpp-mist;
+  color: $tpp-paper;
   padding: 10px;
   border-left: 5px solid $tpp-steel;
 }
 
 .custom-box {
   background-color: $tpp-navy;
-  color: $tpp-mist;
+  color: $tpp-paper;
   padding: 20px;
   border: 2px solid $tpp-steel;
 }
 
-.bg-primary { background-color: $tpp-navy; color: $tpp-mist; }
+.bg-primary { background-color: $tpp-navy; color: $tpp-paper; }
 .bg-secondary { background-color: $tpp-steel; color: $tpp-white; }

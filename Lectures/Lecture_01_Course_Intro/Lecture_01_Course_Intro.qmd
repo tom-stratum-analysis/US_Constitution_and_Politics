@@ -10,7 +10,7 @@ format:
     incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.svg
+    logo: ../../assets/logo.png
     footer: "The Politics Tutor | USGOVT101"
   docx:
     toc: true
