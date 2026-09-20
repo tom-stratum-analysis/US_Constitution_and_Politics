@@ -1,0 +1,65 @@
+---
+title: "Lecture 25: Goodbye"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "Tom Hanna · The Politics Professor"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.svg
+    footer: "The Politics Professor | USGOVT101"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# Goodbye
+
+## The question we started with
+
+::: {.custom-style style="font-size: 1.6em;"}
+How do we live together peacefully in a society of dignified equals?
+:::
+
+## Four reasons we limit government
+
+- It is organized coercive force
+- Crisis stories outrun the long trend
+- Even good people are not omniscient
+- Losers need a future and rights after a loss
+
+## What you can do with that
+
+Recognize force.
+
+Check the story.
+
+Look for trade-offs.
+
+Defend the rules that keep losers in the game.
+
+## Thank you
+
+::: {.custom-style style="font-size: 1.7em;"}
+Go be hard to fool and decent to neighbors.
+:::
+
+## Watch
+
+Short explainers: [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
+
+Longer videos: [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
+
+## Authorship and License
+
+Author: Tom Hanna  
+Brand: The Politics Professor  
+Website: [thepoliticsprofessor.org](https://thepoliticsprofessor.org/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
