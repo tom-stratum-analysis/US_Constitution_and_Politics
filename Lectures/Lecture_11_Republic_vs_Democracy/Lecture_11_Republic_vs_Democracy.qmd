@@ -1,0 +1,124 @@
+---
+title: "Lecture 11: Republic vs Democracy"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- Why republics and democracies arose
+- What they replaced
+- How representative government works the idea
+- Republic, democracy, and minority rights — including property
+
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 46px;"}
+By the end of today you will explain why republics and democracies arose against abusive executives, define both terms, and show how representative government plus minority rights — including property — are two sides of the same project.
+:::
+
+# Why
+
+## The problem was the executive
+
+::: {.custom-style style="font-size: 48px;"}
+Kings turned tyrant — wealthy stationary bandits plundering those beneath them
+:::
+
+## Not a war on earned wealth
+
+::: {.custom-style style="font-size: 48px;"}
+Property rights protection *for* earned wealth — against predation from above
+:::
+
+## Legitimate government and property
+
+::: {.custom-style style="font-size: 46px;"}
+Government exists to secure life, liberty, and property — not to be the chief predator
+:::
+
+# What
+
+## Overthrow and evolution
+
+- Rome: overthrow of kings
+- Britain / Europe: evolution of parliaments and councils
+
+First upper classes constrain the king — later towns, then commoners gain representation and rights.
+
+# How
+
+## Elected representative government
+
+::: {.custom-style style="font-size: 48px;"}
+Congress and legislatures as the institutional answer to unconstrained executives
+:::
+
+# Definitions
+
+## Democracy
+
+Rule by the people.
+
+## Republic
+
+*Res publica* — the public thing; government as the people's common affair.
+
+"Republic means not a monarchy" is largely a historical accident of labeling. Both were reactions to abusive executives.
+
+# Aristotle and Madison
+
+For Aristotle, "democracy" could mean rule by the many for themselves — a corrupt form.
+
+Federalist 10: representation and a larger sphere filter faction; pure democracy amplifies it. Madison's "democracy" ≈ direct assembly. Today's "liberal democracy" is much closer to what he called a republic.
+
+# Two sides of the same coin
+
+Republic and democracy converge when minority rights — including property — are protected. Against the stationary bandit and against majority plunder alike.
+
+# Suffrage and property
+
+Britain: Parliament from 1215 (great barons) to 1928 (full women's suffrage). United States: 1789 already much broader than "barons only" → 1920 full women's suffrage.
+
+Secure rights → invest → real wealth. Education is an investment. Protection of broad-based property rights and expansion of democracy support broad-based prosperity.
+
+# Discussion
+
+- Is the United States a democracy, a republic, or both — and what hinges on minority (including property) rights?
+- Why did constraining the executive come before full popular suffrage in the European story?
+- How is your education an "investment" in the property-rights story?
+
+## Next lecture
+
+Congress constraining the executive — the institutional "how" in American form.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [Democracy vs Republic: What is the United States?](https://www.tiktok.com/@us_politics_explained/video/7560915584314002743)
+- [The Tyranny of the Majority](https://www.tiktok.com/@us_politics_explained/video/7560924440565943607)
+- [State Power and US Elections](https://www.tiktok.com/@us_politics_explained/video/7557937509636902158)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
