@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "USGOVT101"
+  description: "U.S. Constitution and Politics — The Politics Professor"
+  site-url: https://thepoliticsprofessor.org/usgovt101
+  navbar:
+    background: "#1B3A4B"
+    foreground: "#E8EEF2"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: readings.qmd
+        text: Readings
+      - href: videos.qmd
+        text: Videos
+  search: true
+  page-footer: "© Tom Hanna · The Politics Professor · CC BY-NC-SA 4.0"
+
+format:
+  html:
+    theme:
+      light: [flatly, assets/custom-html.scss]
+      dark: [darkly, assets/custom-html.scss]
+    respect-user-color-scheme: true
+    toc: true
