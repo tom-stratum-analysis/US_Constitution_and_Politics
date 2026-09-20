@@ -1,0 +1,48 @@
+---
+title: "Lecture 14: Trade-offs and Unintended Consequences"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# Trade-offs and Unintended Consequences
+
+## By the end of today
+
+You will be able to recognize trade-offs and unintended consequences in public policy and begin to understand why they matter.
+
+We limit government because it is organized coercive force and because even good people are not omniscient.
+
+"If men were angels, no government would be necessary." Good intentions and incorruptibility are not enough. Knowledge is local. Policy moves one thing and moves others you did not price.
+
+Ideology and interest both hide trade-offs. Look for concentrated benefits, diffuse costs, and the next move by the people being regulated.
+
+## Next lecture
+
+The Executive — defender and despoiler of rights.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [Ideology vs Interest](https://www.tiktok.com/@us_politics_explained/video/7546837720182557965)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

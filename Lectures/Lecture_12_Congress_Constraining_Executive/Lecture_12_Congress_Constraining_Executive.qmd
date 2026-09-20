@@ -1,0 +1,53 @@
+---
+title: "Lecture 12: Congress Constraining the Executive"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- The institutional "how" after republic vs democracy
+- King as lawgiver, enforcer, and judge
+- Article I as the break
+- Tax, war, purse, impeachment, advice and consent
+
+# Why This Matters
+
+By the end of today you will explain how Article I turns Congress into the institutional check on the executive, why the tax power continues the long struggle to take the purse from kings, and how powers such as declaring war that still belonged to George III in 1789 were assigned to Congress instead.
+
+The king as lawgiver, enforcer, and judge. Article I, Section 1: all legislative powers herein granted are vested in Congress.
+
+Tax path: Magna Carta, Petition of Right, Ship Money, Glorious Revolution, then Article I.
+
+Congress also declares war, holds the purse, impeaches, and gives advice and consent on appointments and treaties.
+
+## Next lecture
+
+Limiting Congress — because a majority in the legislature can also abuse force.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [US Government — Designed to be slow](https://www.tiktok.com/@us_politics_explained/video/7549817504567217422)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

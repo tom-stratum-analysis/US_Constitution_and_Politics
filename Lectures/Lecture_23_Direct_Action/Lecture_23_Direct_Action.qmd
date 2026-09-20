@@ -1,0 +1,48 @@
+---
+title: "Lecture 23: Direct Action"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# Direct Action
+
+## By the end of today
+
+You will be able to treat the First Amendment as a toolkit and place common tactics on a spectrum from petition to civil disobedience.
+
+Speech, press, assembly, and petition are one toolkit.
+
+Organized contact is petition with a list. Protest is assembly plus speech. Citizen journalism and filming the police in public are press. *Turner v. Driver* (5th Cir. 2017): recording police is a basic, vital, and well-established liberty if you do not interfere.
+
+Civil disobedience is public, nonviolent, intentional lawbreaking. Arrest is part of the point. That is where First Amendment protection ends.
+
+## Next
+
+Ethics of the Citizen.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [Ideology vs Interest](https://www.tiktok.com/@us_politics_explained/video/7546837720182557965)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

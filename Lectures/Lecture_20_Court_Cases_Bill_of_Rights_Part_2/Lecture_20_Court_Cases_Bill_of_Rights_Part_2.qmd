@@ -1,0 +1,46 @@
+---
+title: "Lecture 20: Major Court Cases and Bill of Rights Part 2"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# Court Cases and Bill of Rights Part 2
+
+## By the end of today
+
+You will be able to explain how incorporation and a handful of criminal-procedure cases turned paper rights into limits that bind the states.
+
+In 1833 *Barron* held that the Bill of Rights bound the federal government, not the states. The Fourteenth Amendment gave the Court a door. Incorporation is a long case-by-case project.
+
+- *Mapp v. Ohio* (1961): exclusionary rule in the states
+- *Gideon v. Wainwright* (1963): appointed counsel when liberty is at stake
+- *Miranda v. Arizona* (1966): warnings before custodial interrogation
+
+Fifth, Sixth, and Eighth criminal-procedure guarantees are the core of this lecture. Speech and civil-rights landmarks come next.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [The Bill of Rights Explained](https://www.tiktok.com/@us_politics_explained/video/7552578637275434254)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

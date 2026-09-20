@@ -1,0 +1,48 @@
+---
+title: "Lecture 13: Limiting Congress"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- Why majority rule still needs limits
+- Enumerated and prohibited powers
+- Bicameralism, judicial review, and other brakes
+- Bill of Rights — especially 9 and 10
+
+A congressional majority can still become tyranny of the majority. Aristotle and Madison both warn that popular forms can serve the many for themselves.
+
+Congress has the powers the Constitution grants — not whatever a majority wants. Some powers are prohibited outright. Bicameralism, presentment, judicial review, federalism, and the Ninth and Tenth Amendments are the brakes.
+
+## Next lecture
+
+Trade-offs and unintended consequences.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [The Tyranny of the Majority](https://www.tiktok.com/@us_politics_explained/video/7560924440565943607)
+- [US Government — Designed to be slow](https://www.tiktok.com/@us_politics_explained/video/7549817504567217422)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
