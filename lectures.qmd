@@ -1,0 +1,33 @@
+---
+title: "Lectures"
+---
+
+Source decks for USGOVT101. Each lecture renders to revealjs slides, printable HTML, and DOCX.
+
+| # | Lecture |
+|---|---------|
+| 01 | [Course Introduction](Lectures/Lecture_01_Course_Intro/Lecture_01_Course_Intro.qmd) |
+| 02 | [What is government? What is politics?](Lectures/Lecture_02_What_is_Government/Lecture_02_What_is_Government.qmd) |
+| 03 | [Basic Ethics](Lectures/Lecture_03_Basic_Ethics/Lecture_03_Basic_Ethics.qmd) |
+| 04 | [Values of the Founding](Lectures/Lecture_04_Values_of_the_Founding/Lecture_04_Values_of_the_Founding.qmd) |
+| 05 | [Origins of Government](Lectures/Lecture_05_Origins_of_Government/Lecture_05_Origins_of_Government.qmd) |
+| 06 | [Constitutional Safeguards](Lectures/Lecture_06_Constitutional_Safeguards/Lecture_06_Constitutional_Safeguards.qmd) |
+| 07 | [The Unfinished Contract](Lectures/Lecture_07_Whats_Missing_Amendments/Lecture_07_Whats_Missing_Amendments.qmd) |
+| 08 | [Bill of Rights Part 1](Lectures/Lecture_08_Bill_of_Rights_Part_1/Lecture_08_Bill_of_Rights_Part_1.qmd) |
+| 09 | [The Better Angels of Our Nature](Lectures/Lecture_09_Better_Angels/Lecture_09_Better_Angels.qmd) |
+| 10 | [Misinformation](Lectures/Lecture_10_Misinformation/Lecture_10_Misinformation.qmd) |
+| 11 | [Republic vs Democracy](Lectures/Lecture_11_Republic_vs_Democracy/Lecture_11_Republic_vs_Democracy.qmd) |
+| 12 | [Congress Constraining the Executive](Lectures/Lecture_12_Congress_Constraining_Executive/Lecture_12_Congress_Constraining_Executive.qmd) |
+| 13 | [Limiting Congress](Lectures/Lecture_13_Limiting_Congress/Lecture_13_Limiting_Congress.qmd) |
+| 14 | [Trade-offs and Unintended Consequences](Lectures/Lecture_14_Tradeoffs_Unintended_Consequences/Lecture_14_Tradeoffs_Unintended_Consequences.qmd) |
+| 15 | [The Executive](Lectures/Lecture_15_Executive/Lecture_15_Executive.qmd) |
+| 16 | [Federal Reserve and Independent Agencies](Lectures/Lecture_16_Federal_Reserve/Lecture_16_Federal_Reserve.qmd) |
+| 17 | [War Powers and Foreign Policy](Lectures/Lecture_17_War_Powers/Lecture_17_War_Powers.qmd) |
+| 18 | [Constitution Making](Lectures/Lecture_18_Constitution_Making/Lecture_18_Constitution_Making.qmd) |
+| 19 | [The Courts](Lectures/Lecture_19_Courts/Lecture_19_Courts.qmd) |
+| 20 | [Major Court Cases and Bill of Rights Part 2](Lectures/Lecture_20_Court_Cases_Bill_of_Rights_Part_2/Lecture_20_Court_Cases_Bill_of_Rights_Part_2.qmd) |
+| 21 | [Major Court Cases Wrap-up](Lectures/Lecture_21_Court_Cases_Wrapup/Lecture_21_Court_Cases_Wrapup.qmd) |
+| 22 | [Civil Rights](Lectures/Lecture_22_Civil_Rights/Lecture_22_Civil_Rights.qmd) |
+| 23 | [Direct Action](Lectures/Lecture_23_Direct_Action/Lecture_23_Direct_Action.qmd) |
+| 24 | [Ethics of the Citizen](Lectures/Lecture_24_Ethics_of_the_Citizen/Lecture_24_Ethics_of_the_Citizen.qmd) |
+| 25 | [Goodbye](Lectures/Lecture_25_Goodbye/Lecture_25_Goodbye.qmd) |

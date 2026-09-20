@@ -11,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: lectures.qmd
+        text: Lectures
       - href: readings.qmd
         text: Readings
       - href: videos.qmd

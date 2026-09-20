@@ -10,3 +10,5 @@ The organizing problem: **how to live together peacefully in a society of dignif
 Short videos: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
 
 There is no dedicated Texas-constitution unit. Texas appears only where it illustrates a general federalism or institutional point.
+
+See the [lecture list](lectures.qmd) for the full sequence.
