@@ -1,27 +1,27 @@
 /*-- scss:defaults --*/
 
-// The Politics Tutor — light blue-grey field, navy text
-$tpp-ink: #102A3A;
-$tpp-navy: #17384A;
-$tpp-slate: #2C5163;
+// The Politics Tutor — visible light steel field, navy type
+$tpp-ink: #0E2433;
+$tpp-navy: #143044;
+$tpp-slate: #2A4A5C;
 $tpp-steel: #3A6E8C;
-$tpp-mist: #F3F7FA;
-$tpp-paper: #F8FBFC;
+$tpp-field: #B7C9D6;
+$tpp-paper: #E4EDF2;
 $tpp-white: #FFFFFF;
 
-$body-bg: $tpp-mist;
+$body-bg: $tpp-field;
 $body-color: $tpp-ink;
-$link-color: $tpp-steel;
+$link-color: $tpp-navy;
 $presentation-heading-color: $tpp-navy;
 
 /*-- scss:rules --*/
 
 :root {
-  --r-background-color: #{$tpp-mist} !important;
+  --r-background-color: #{$tpp-field} !important;
   --r-main-color: #{$tpp-ink} !important;
   --r-heading-color: #{$tpp-navy} !important;
-  --r-link-color: #{$tpp-steel} !important;
-  --r-link-color-hover: #{$tpp-navy} !important;
+  --r-link-color: #{$tpp-navy} !important;
+  --r-link-color-hover: #{$tpp-steel} !important;
   --r-selection-background-color: #{$tpp-navy} !important;
   --r-selection-color: #{$tpp-paper} !important;
 }
@@ -34,8 +34,8 @@ body,
 .reveal .slide-background,
 .reveal .slide-background-content,
 .reveal .backgrounds {
-  background-color: $tpp-mist !important;
-  background: $tpp-mist !important;
+  background-color: $tpp-field !important;
+  background: $tpp-field !important;
   color: $tpp-ink;
 }
 
@@ -60,9 +60,9 @@ body,
 }
 
 .reveal a {
-  color: $tpp-steel;
+  color: $tpp-navy;
   text-decoration: underline;
-  &:hover { color: $tpp-navy; }
+  &:hover { color: $tpp-steel; }
 }
 
 .reveal .slide-number { color: $tpp-slate; }
@@ -71,19 +71,24 @@ body,
   font-size: 0.35em !important;
   text-align: left !important;
   color: $tpp-navy;
-  background-color: $tpp-mist !important;
+  background-color: $tpp-field !important;
+
   img {
-    height: 52px;
-    width: auto;
+    height: 110px !important;
+    width: auto !important;
+    max-height: 110px !important;
     padding: 0;
     border: 0;
     background: transparent;
   }
 }
 
+.reveal img.slide-logo,
 .reveal .slide-logo {
-  max-height: 56px !important;
-  max-width: 160px !important;
+  height: 120px !important;
+  max-height: 120px !important;
+  max-width: 280px !important;
+  width: auto !important;
 }
 
 .sectionhead {

@@ -1,15 +1,17 @@
 # Assets
 
-Place the course mark at:
+Put the course mark here:
 
 ```
 assets/logo.png
 ```
 
-Lecture YAML already points here:
+Lecture YAML:
 
 ```yaml
 logo: ../../assets/logo.png
 ```
 
-Use a square or wide mark on a transparent or `#F3F7FA` background so it sits cleanly in the revealjs corner. 512×512 or 1024×1024 PNG is enough.
+`custom.scss` sizes `.slide-logo` to 120px tall. If the mark still looks tiny, the PNG itself has too much empty padding — crop it tight around the column/wordmark and re-export.
+
+Slide field color is `#B7C9D6` (visible steel). Type is `#0E2433` / `#143044`.

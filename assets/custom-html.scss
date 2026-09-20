@@ -1,10 +1,11 @@
 /*-- scss:defaults --*/
-$tpp-ink: #102A3A;
-$tpp-navy: #17384A;
+$tpp-ink: #0E2433;
+$tpp-navy: #143044;
 $tpp-steel: #3A6E8C;
-$tpp-mist: #F3F7FA;
-$link-color: $tpp-steel;
+$tpp-field: #B7C9D6;
+$link-color: $tpp-navy;
 $body-color: $tpp-ink;
+$body-bg: $tpp-field;
 
 /*-- scss:rules --*/
 .navbar {
@@ -12,6 +13,7 @@ $body-color: $tpp-ink;
 }
 
 body {
+  background-color: $tpp-field;
   color: $tpp-ink;
 }
 
@@ -19,4 +21,4 @@ h1, h2, h3, h4, h5, h6 {
   color: $tpp-navy;
 }
 
-a { color: $tpp-steel; }
+a { color: $tpp-navy; }
