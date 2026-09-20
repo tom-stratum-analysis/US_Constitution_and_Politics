@@ -1,0 +1,297 @@
+---
+title: "Lecture 2: What is government? What is politics?"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- What is Government? What is politics?
+- Discussion: Experiences with Government
+- Questions
+
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 65px;"}
+By the end of today you will be able to explain why government is different from every other organization in the way it gets things done.
+:::
+
+## The Core Question
+
+::: {.custom-style style="font-size: 70px;"}
+What makes government different from every other group of people who try to get things done?
+:::
+
+## Before You Walked Onto Campus
+
+::: {.custom-style style="font-size: 70px;"}
+Before stepping on the campus today, what was the last time that politics made a difference in your life?
+:::
+
+# A Word on Words
+
+## Government
+
+- The specific group of people in charge right now
+- The enduring institution or organization we call government
+
+## State
+
+- International: State = independent country
+- United States: State = one of the 50 states
+- Political Science: State = government
+
+## Politics
+
+The process of making collective decisions in the context of the state or government
+
+# What Do Most People Think Politics Is?
+
+## What Do Most People Think Politics Is?
+
+- Expensive or involves large amounts of money
+- Distant
+- Involves politicians or campaigns
+- Involves voting or decision making
+- Involves rights
+- National borders
+- Controversial
+
+## What Is Politics: State and Local
+
+![Houston Public Works](houston-public.png){width="49%"}
+
+## What Is Politics: Federal, State and Local
+
+![Metro rail](../../assets/metrorail.jpg){width="49%"}
+
+## What Is Politics: Federal, State and Local
+
+Local campuses and city offices are part of the same political system as Congress.
+
+## What Politics Actually Is
+
+- Not distant
+- Immediate, right here
+- Touches everything
+- Direct impacts are constant
+- Involves all of us
+- It can be expensive, but it is not always about money
+
+# Politics Is Powerful
+
+## Politics Is Powerful
+
+- Immense power to achieve good ends
+
+## Politics Is Powerful
+
+- Immense power to achieve good ends
+- Immense power to do incredible harm
+
+## Politics Is Powerful
+
+::: {.custom-style style="font-size: 3em;"}
+Why does politics have such power to cause harm?
+:::
+
+## Politics Is Powerful
+
+![George Washington](../../assets/washington_quote.jpg){width="55%"}
+
+## Politics Is Powerful
+
+![Frederick Douglass](../../assets/power_fredrick_douglass.jpg){width="55%"}
+
+## Power
+
+::: {.custom-style style="font-size: 90px;"}
+Power
+:::
+
+# Collective Action
+
+## What Does Government Do?
+
+::: {.custom-style style="font-size: 70px;"}
+These are all examples of *collective action* — organized action by a group of people to achieve a common goal.
+:::
+
+## What Makes Government Different?
+
+::: {.custom-style style="font-size: 65px;"}
+What makes government or The State different from other organizations? Is collective action unique to government?
+:::
+
+# Other Organizations
+
+## Other Organizations — Group 1
+
+- Family
+
+## Other Organizations
+
+- Family
+- Church
+
+## Other Organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+
+## Other Organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+
+## Other Organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses — The Market
+
+## Other Organizations — Group 2
+
+- Organized crime
+
+## Other Organizations
+
+- Organized crime
+- Vigilantes
+
+## Other Organizations
+
+- Organized crime
+- Vigilantes
+- Terrorists
+
+## Key Questions
+
+- For Group 1 organizations: How can they enforce their rules?
+
+- For Group 2 organizations: Who are they responsible to, and how do we view their use of force?
+
+# The State / Government
+
+## What Is Government?
+
+::: {.custom-style style="font-size: 55px;"}
+The organized coercive use of physical (violent) force that is commonly accepted as legitimate
+:::
+
+## Organized
+
+::: {.custom-style style="font-size: 90px;"}
+Organized
+:::
+
+## Coercive
+
+::: {.custom-style style="font-size: 90px;"}
+Coercive
+:::
+
+## Physical Force
+
+::: {.custom-style style="font-size: 90px;"}
+Physical Force
+:::
+
+## Legitimate
+
+::: {.custom-style style="font-size: 90px;"}
+Legitimate
+:::
+
+## Putting it together
+
+::: {.custom-style style="font-size: 55px;"}
+Government = organized + coercive + physical force + legitimacy
+:::
+
+## What Is Politics?
+
+::: {.custom-style style="font-size: 65px;"}
+Politics is the process of making collective decisions in the context of...
+:::
+
+## What Is Politics?
+
+::: {.custom-style style="font-size: 65px;"}
+Politics is the process of making collective decisions in the context of the State or government.
+:::
+
+## The Difference
+
+These organizations all engage in collective action, but lack one thing the state has:
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses — The Market
+
+**Coercive use of physical force treated as legitimate**
+
+## Two Spheres
+
+**Voluntary Sphere**  
+Family, church, market, charities...
+
+**Coercive Sphere**  
+The State / government
+
+## Politics Is About
+
+Making collective decisions in **the Coercive Sphere**
+
+# Questions
+
+## Next Lecture
+
+**Next lecture:** Basic Ethics
+
+Come prepared to discuss *your own* answers to these questions. We will start with them. Legal answers are not what we are after.
+
+- What are ethically appropriate uses of physical force (violence)?
+- How do you (or how should you) make ethical decisions?
+- If you have to make a decision that affects the lives or property of others, how do you determine right from wrong when the law is silent or absent?
+
+**Following lecture:** Constitutional Safeguards comes after ethics and founding values.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+Clips that pair with this lecture:
+
+- [What is government?](https://www.tiktok.com/@us_politics_explained/video/7535697860541549879)
+- [Why do we need government?](https://www.tiktok.com/@us_politics_explained/video/7544965271010790711)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
