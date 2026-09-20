@@ -1,0 +1,69 @@
+---
+title: "Lecture 17: War Powers and Foreign Policy"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# War Powers and Foreign Policy
+
+## By the end of today
+
+You will be able to explain the 1789 break on war power, how later practice shifted toward the executive, and why Congress rarely takes the power back.
+
+## The 1789 break
+
+Congress declares war, raises armies, maintains a navy, and may not appropriate for an army for longer than two years. The President is Commander in Chief.
+
+Congress decides whether the nation is at war. The President conducts the war Congress has authorized. No money, no war machine.
+
+## What changed
+
+Declarations became rare. Authorizations, resolutions, and “hostilities” short of declared war became the working law.
+
+War Powers Resolution, 1973: 48-hour report, 60-day clock, consultation. What counts as “hostilities” is the standing fight.
+
+Both parties expand the office when they hold it. Congress complains, funds the operation, and rarely forces a clean stop.
+
+War-powers disputes are often treated as political questions. The fight stays in Congress and in elections.
+
+## Recap
+
+- 1789: declare war is a legislative power
+- Command is executive
+- Modern practice stretched “hostilities”
+- Tools exist; political will is the scarce resource
+
+## Discussion
+
+1. If Congress can defund a war, why does it so rarely do so?
+2. Should drone campaigns and capture operations count as “hostilities”?
+3. Is the 60-day clock a limit, a license, or both?
+
+## Next
+
+Constitution making — constitutional politics versus ordinary politics
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

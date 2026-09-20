@@ -1,0 +1,89 @@
+---
+title: "Lecture 15: The Executive — Defender and Despoiler of Rights"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+# The Executive
+
+## By the end of today
+
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to explain why a republic needs an executive strong enough to secure rights and why that same concentrated force is why we constrain it.
+:::
+
+## Where this fits
+
+Congress writes policy. The executive **implements** it — with force if needed. That is both the point and the danger.
+
+## Necessary Leviathan
+
+Rights on paper mean little if no one can enforce them.
+
+## What the office actually does
+
+- Execute the laws
+- Command the armed forces
+- Appoint officers
+- Pardon
+- Receive ambassadors
+
+## Take Care
+
+"He shall take Care that the Laws be faithfully executed."
+
+## Despoiler of rights
+
+The same hand that enforces rights can violate them. The executive is where coercive force is **used**, not just authorized.
+
+## Enforcement is a choice
+
+Which laws get priority. Which cases get pursued. Which emergencies get declared.
+
+## The purse still binds
+
+Impeachment: House charges, Senate tries. Removal is the ultimate personal limit on the executive.
+
+## Recap
+
+- We need an executive to make rights real
+- Concentrated force is the standing risk
+- Faithful execution is the job description
+- Congress, courts, and elections are the brakes
+
+## Discussion
+
+1. When is a strong executive a defender of rights rather than a threat?
+2. Who should decide which laws get enforced first?
+3. If impeachment is rare, what actually constrains a president day to day?
+
+## Next
+
+Federal Reserve and independent agencies
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [US Government — Designed to be slow](https://www.tiktok.com/@us_politics_explained/video/7549817504567217422)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
