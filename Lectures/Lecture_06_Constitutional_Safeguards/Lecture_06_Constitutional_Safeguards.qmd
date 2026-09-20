@@ -1,0 +1,75 @@
+---
+title: "Lecture 6: Constitutional Safeguards"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- Why the Constitution matters
+- Separation of powers
+- Checks and balances
+- Federalism
+
+# Why This Matters
+
+Name the main structural tools the Constitution uses to limit organized coercive force — and why splitting power is the point.
+
+Design tools: separation of powers, checks and balances, federalism, and later the Bill of Rights.
+
+# Separation and Checks
+
+Separate power among groups with different agendas. Competing interests force groups to check each other. No group or person has enough power to act alone.
+
+- Legislative — makes law
+- Executive — executes and governs
+- Judicial — interprets and applies
+
+Congress: impeach, override veto, structure court jurisdiction.
+
+President: veto, pardon, discretion in enforcement.
+
+Courts: judicial review. Article VI makes the Constitution supreme law.
+
+# Federalism
+
+House and Senate have different terms, constituencies, and roles. The Senate was designed to represent states.
+
+Declaration: free and independent *States* — plural. Places that were once independent countries — the original thirteen, Vermont, Texas, Hawaii — still shape how federalism feels. Other states were bought or won in war and still get the federalism bargain.
+
+Tenth Amendment: powers not delegated to the United States remain with the states or the people.
+
+Most ordinary crime, property, contracts, family, and intrastate life stay with the states. Unless the Constitution grants a power, it is not a federal power.
+
+## Discussion
+
+- Which safeguard do you trust most to limit abuse — separation, checks, or federalism?
+- Does knowing that Texas and a few others were independent countries change how federalism feels?
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [US Government — Designed to be slow](https://www.tiktok.com/@us_politics_explained/video/7549817504567217422)
+- [State Power and US Elections](https://www.tiktok.com/@us_politics_explained/video/7557937509636902158)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

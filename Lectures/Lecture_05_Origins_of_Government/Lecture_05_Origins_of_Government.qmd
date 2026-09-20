@@ -1,0 +1,89 @@
+---
+title: "Lecture 5: Origins of Government"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- Why government arises
+- Collective action problems
+- Olson: stationary bandit (empirical)
+- Locke: social contract (normative)
+
+# Why This Matters
+
+By the end of today you will explain two answers to where government comes from — one empirical, one about rights and legitimacy — and why both matter for limiting power.
+
+# Collective Action
+
+Rational individual choices need not produce optimal group outcomes.
+
+Elinor Ostrom: failure of collective action is the core justification for the state.
+
+[Prisoner’s Dilemma Explained](https://youtu.be/TJCGTNIwmv8)
+
+- Best personal move can make both worse off
+- Talk without enforcement is cheap
+- Enforcement is a core use of state coercion
+
+Public goods include roads, parks, clean air, and especially security.
+
+# Olson — Empirical Origin
+
+Roving bandit: plunder and move on, no incentive to protect production.
+
+Stationary bandit: stay, monopolize force and taxation, incentive to foster order.
+
+Empirical story: order can grow out of self-interested violence.
+
+# Locke — Rights and Legitimacy
+
+State of nature: not war of all against all — law of nature, free and equal.
+
+Inconveniences: no settled law, no neutral judge, no reliable enforcement.
+
+Purpose of government: preservation of property — life, liberty, possessions.
+
+Government protects pre-existing rights. It does not create them.
+
+# Two Models
+
+| Olson | Locke |
+|-------|--------|
+| Empirical origin | Normative legitimacy |
+| Incentives and violence | Rights and consent |
+| Where states come from | Why we may limit them |
+
+## Discussion
+
+- Does Olson’s story make government look more dangerous — or more inevitable?
+- Does Locke’s contract still bind people who never signed?
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [Why do we need government?](https://www.tiktok.com/@us_politics_explained/video/7544965271010790711)
+- [What is government?](https://www.tiktok.com/@us_politics_explained/video/7535697860541549879)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

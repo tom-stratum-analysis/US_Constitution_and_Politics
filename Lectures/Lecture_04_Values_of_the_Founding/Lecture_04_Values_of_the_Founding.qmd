@@ -1,0 +1,120 @@
+---
+title: "Lecture 4: Values of the Founding"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- Values of the Founding
+- Spectrum of limits on government force
+- Discussion: where do *you* place the hard cases?
+
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 55px;"}
+By the end of today you will place the Founding on a spectrum of answers to how much we should limit government — and state two modern classical-liberal restatements.
+:::
+
+## Bridge
+
+- Government = organized coercive force accepted as legitimate
+- Ethics of when force is acceptable
+- Founding values: how to live together peacefully as dignified equals
+
+## Two basic questions
+
+1. What is the proper purpose of government?
+2. How do we limit government to only those purposes?
+
+# Classical Liberalism
+
+## Classical liberalism
+
+- Limit the power of government
+- Expand political participation
+- Allow individuals and voluntary associations to flourish
+
+## Modern restatement — Coyne
+
+Live together peacefully in a society of dignified equals.
+
+(close paraphrase of Chris Coyne)
+
+## Legitimate goals of government
+
+Life. Liberty. Pursuit of happiness. Property as the product of labor.
+
+# Spectrum of Limits
+
+## Most restrained
+
+“That government is best which governs not at all.” — Thoreau, *Civil Disobedience* (1849)
+
+## Moderate restraint
+
+“That government is best which governs least.” — *United States Magazine and Democratic Review*
+
+## Krauthammer
+
+The mark of a civilized society is to maintain organized violence at the lowest possible level. — Charles Krauthammer, *Things That Matter* (2013)
+
+## Constitutional limits
+
+Force only when and how a constitution allows.
+
+## The bargain
+
+| The people agree to | The government agrees to |
+|---------------------|--------------------------|
+| Give up some freedom | Protect fundamental rights |
+| Submit to some coercion | Life, liberty, property |
+
+Hobbes, Locke, and Rousseau describe different bargains.
+
+# Hard Cases
+
+## Militant democracy and realpolitik
+
+Where do they sit on the spectrum — closer to freedom, or closer to theocracy and totalitarianism?
+
+## Theocracy
+
+Power justified by divine mandate.
+
+## Totalitarianism
+
+“All within the state, nothing against the state, nothing outside the state.” — Mussolini
+
+# Teaser
+
+If you never signed the contract, are you bound by its terms? Later lectures return to that question.
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+- [The Unfinished Contract](https://www.tiktok.com/@us_politics_explained/video/7550094528380800269)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
