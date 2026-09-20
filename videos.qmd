@@ -2,8 +2,17 @@
 title: "Videos"
 ---
 
-- [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
-- [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
-- [Instagram @thepoliticsprofessor](https://www.instagram.com/thepoliticsprofessor)
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
 
-Each lecture includes a Watch slide pointing at these channels. Replace the generic link with a clip URL when a topic-specific video exists.
+| Clip | Lecture |
+|------|---------|
+| [What is government?](https://www.tiktok.com/@us_politics_explained/video/7535697860541549879) | 01, 02, 05 |
+| [Why do we need government?](https://www.tiktok.com/@us_politics_explained/video/7544965271010790711) | 01, 02, 05 |
+| [The Trolley Problem](https://www.tiktok.com/@us_politics_explained/video/7542711806813375757) | 03, 24 |
+| [The Unfinished Contract](https://www.tiktok.com/@us_politics_explained/video/7550094528380800269) | 04, 07, 18, 22 |
+| [US Government — Designed to be slow](https://www.tiktok.com/@us_politics_explained/video/7549817504567217422) | 06, 12, 13, 15, 18 |
+| [State Power and US Elections](https://www.tiktok.com/@us_politics_explained/video/7557937509636902158) | 06, 11 |
+| [The Bill of Rights Explained](https://www.tiktok.com/@us_politics_explained/video/7552578637275434254) | 07, 08, 19–21 |
+| [Democracy vs Republic: What is the United States?](https://www.tiktok.com/@us_politics_explained/video/7560915584314002743) | 11, 25 |
+| [The Tyranny of the Majority](https://www.tiktok.com/@us_politics_explained/video/7560924440565943607) | 11, 13 |
+| [Ideology vs Interest](https://www.tiktok.com/@us_politics_explained/video/7546837720182557965) | 14, 23 |

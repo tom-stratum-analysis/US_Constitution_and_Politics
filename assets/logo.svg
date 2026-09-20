@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="The Politics Professor">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="The Politics Tutor">
   <rect width="512" height="512" rx="48" fill="#1B3A4B"/>
   <rect x="36" y="36" width="440" height="440" rx="32" fill="none" stroke="#E8EEF2" stroke-width="8"/>
   <polygon points="256,86 318,210 256,186 194,210" fill="#4A7C9B"/>
   <rect x="236" y="186" width="40" height="168" fill="#E8EEF2"/>
   <rect x="168" y="354" width="176" height="18" fill="#4A7C9B"/>
-  <text x="256" y="430" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#E8EEF2">TPP</text>
+  <text x="256" y="430" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#E8EEF2">TPT</text>
 </svg>

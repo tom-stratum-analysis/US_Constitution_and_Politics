@@ -1,16 +1,12 @@
 ---
 title: "USGOVT101: U.S. Constitution and Politics"
-subtitle: "The Politics Professor"
+subtitle: "The Politics Tutor: US Politics Explained"
 ---
 
-Generic lecture materials for an introductory course on the United States Constitution and national government. No college branding, no term dates, and no commercial homework platforms.
+Generic lecture materials for an introductory course on the United States Constitution and national government.
 
 The organizing problem: **how to live together peacefully in a society of dignified equals.**
 
-See the README and the Lectures folder for the full sequence. There is no dedicated Texas-constitution unit. Texas appears only where it illustrates a general federalism or institutional point.
+Short videos: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
 
-## Videos
-
-- [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
-- [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
-- [Instagram @thepoliticsprofessor](https://www.instagram.com/thepoliticsprofessor)
+There is no dedicated Texas-constitution unit. Texas appears only where it illustrates a general federalism or institutional point.

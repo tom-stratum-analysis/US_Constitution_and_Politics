@@ -2,5 +2,4 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Author: Tom Hanna
-Brand: The Politics Professor
+Brand: The Politics Tutor: US Politics Explained
