@@ -2,7 +2,7 @@
 title: |
     | USGOVT101: U.S. Constitution and Politics
     | Course Introduction
-author: "Tom Hanna · The Politics Professor"
+author: "The Politics Tutor: US Politics Explained"
 date: last-modified
 format:
   revealjs:
@@ -11,17 +11,13 @@ format:
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.svg
-    footer: "The Politics Professor | USGOVT101"
+    footer: "The Politics Tutor | USGOVT101"
   docx:
     toc: true
     number-sections: true
   pptx: {}
   html:
     toc: true
-format-links:
-  - format: revealjs
-    text: "Slides (Reveal.js)"
-    icon: presentation
 ---
 
 # Welcome
@@ -40,20 +36,11 @@ By the end of this course you will be able to explain how the American constitut
 
 This version is not tied to any college, LMS, or commercial textbook platform.
 
-## The Politics Professor
+## The Politics Tutor
 
-- Instructor: Tom Hanna
-- Site: [thepoliticsprofessor.org](https://thepoliticsprofessor.org/)
-- Writing: [tom-hanna.org](https://tom-hanna.org/)
-- Short videos: [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
-- Longer videos: [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
-- Reels: [Instagram @thepoliticsprofessor](https://www.instagram.com/thepoliticsprofessor)
+US Politics Explained.
 
-## About the instructor
-
-- Political scientist. Teaching and research focus on American institutions, comparative politics, international organization, and quantitative methods.
-- Research interest: international behavior of dictators, and threats to liberal constitutional government.
-- Former business manager and owner — not only classroom theory.
+Short videos: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
 
 # The problem this course is about
 
@@ -73,30 +60,26 @@ Government is the organization whose use of organized coercive force is widely t
 
 # How the course works
 
-## Lectures, readings, and outside sources
+## Lectures and outside sources
 
 - The lecture is not a substitute for a textbook.
 - A textbook is not a substitute for the lecture.
 - Neither replaces assigned outside readings.
+- These lectures ask **why the design matters**.
 - Outside readings are first-class materials.
 
 ## Watch
 
-Short explainers: [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
 
-Longer videos: [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
+Clips that pair with this lecture:
 
-## Suggested first readings
-
-- The Declaration of Independence
-- The Constitution of the United States, including the Bill of Rights
-- Federalist Nos. 10 and 51
-- Brutus I
+- [What is government?](https://www.tiktok.com/@us_politics_explained/video/7535697860541549879)
+- [Why do we need government?](https://www.tiktok.com/@us_politics_explained/video/7544965271010790711)
 
 # Questions
 
 ## Authorship and License
 
-- Author: Tom Hanna
-- Brand: The Politics Professor
+- Brand: The Politics Tutor: US Politics Explained
 - License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)

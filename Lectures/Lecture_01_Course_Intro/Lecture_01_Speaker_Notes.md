@@ -1,7 +1,7 @@
-# Speaker notes — Lecture 01 Course Introduction (USGOVT101)
+# Speaker notes — Lecture 01
 
-Open with the course problem, not logistics: how dignified equals live together with as little organized violence as possible.
+Open with the course problem, not logistics.
 
-Do not spend this session on an LMS tour or a commercial textbook storefront. Point people at the Readings page and the Politics Professor video channels.
+Point people to TikTok @us_politics_explained for the short explainers.
 
-Keep biography short. Close by asking what “peaceful” cannot mean, so Lecture 02 has a hook.
+No personal biography and no campus logistics in this generic version.

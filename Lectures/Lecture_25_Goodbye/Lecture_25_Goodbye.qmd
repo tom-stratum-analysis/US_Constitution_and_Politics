@@ -1,7 +1,7 @@
 ---
 title: "Lecture 25: Goodbye"
 subtitle: "USGOVT101: U.S. Constitution and Politics"
-author: "Tom Hanna · The Politics Professor"
+author: "The Politics Tutor: US Politics Explained"
 date: last-modified
 format:
   revealjs:
@@ -10,7 +10,7 @@ format:
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.svg
-    footer: "The Politics Professor | USGOVT101"
+    footer: "The Politics Tutor | USGOVT101"
   pptx: {}
   docx:
     toc: true
@@ -52,14 +52,15 @@ Go be hard to fool and decent to neighbors.
 
 ## Watch
 
-Short explainers: [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
 
-Longer videos: [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
+Clips that pair with this lecture:
+
+- [Democracy vs Republic: What is the United States?](https://www.tiktok.com/@us_politics_explained/video/7560915584314002743)
+- [What is government?](https://www.tiktok.com/@us_politics_explained/video/7535697860541549879)
 
 ## Authorship and License
 
-Author: Tom Hanna  
-Brand: The Politics Professor  
-Website: [thepoliticsprofessor.org](https://thepoliticsprofessor.org/)
+Brand: The Politics Tutor: US Politics Explained
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
