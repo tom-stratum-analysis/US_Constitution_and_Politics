@@ -1,0 +1,9 @@
+---
+title: "Videos"
+---
+
+- [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
+- [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
+- [Instagram @thepoliticsprofessor](https://www.instagram.com/thepoliticsprofessor)
+
+Each lecture includes a Watch slide pointing at these channels. Replace the generic link with a clip URL when a topic-specific video exists.
