@@ -1,0 +1,102 @@
+---
+title: |
+    | USGOVT101: U.S. Constitution and Politics
+    | Course Introduction
+author: "Tom Hanna · The Politics Professor"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.svg
+    footer: "The Politics Professor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+format-links:
+  - format: revealjs
+    text: "Slides (Reveal.js)"
+    icon: presentation
+---
+
+# Welcome
+
+## USGOVT101
+
+::: {.custom-style style="font-size: 44px;"}
+By the end of this course you will be able to explain how the American constitutional system tries to let dignified equals live together with as little organized violence as possible.
+:::
+
+## Who this course is for
+
+- Students in an introductory U.S. government or U.S. constitution course
+- Independent learners
+- Anyone who wants a serious, institution-agnostic treatment of the American system
+
+This version is not tied to any college, LMS, or commercial textbook platform.
+
+## The Politics Professor
+
+- Instructor: Tom Hanna
+- Site: [thepoliticsprofessor.org](https://thepoliticsprofessor.org/)
+- Writing: [tom-hanna.org](https://tom-hanna.org/)
+- Short videos: [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
+- Longer videos: [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
+- Reels: [Instagram @thepoliticsprofessor](https://www.instagram.com/thepoliticsprofessor)
+
+## About the instructor
+
+- Political scientist. Teaching and research focus on American institutions, comparative politics, international organization, and quantitative methods.
+- Research interest: international behavior of dictators, and threats to liberal constitutional government.
+- Former business manager and owner — not only classroom theory.
+
+# The problem this course is about
+
+## The core problem
+
+How to live together peacefully in a society of dignified equals.
+
+## Working definition of government
+
+Government is the organization whose use of organized coercive force is widely treated as legitimate.
+
+## Why limit government
+
+- Government limits criminal and foreign violence — and is itself coercive force.
+- Humans are not omniscient. Trade-offs and unintended consequences are normal.
+- Counter-majoritarian rules exist so losers of elections still have rights and a chance to win next time.
+
+# How the course works
+
+## Lectures, readings, and outside sources
+
+- The lecture is not a substitute for a textbook.
+- A textbook is not a substitute for the lecture.
+- Neither replaces assigned outside readings.
+- Outside readings are first-class materials.
+
+## Watch
+
+Short explainers: [TikTok @thepoliticsprofessor](https://www.tiktok.com/@thepoliticsprofessor)
+
+Longer videos: [YouTube @ThePoliticsProfessor](https://www.youtube.com/@ThePoliticsProfessor)
+
+## Suggested first readings
+
+- The Declaration of Independence
+- The Constitution of the United States, including the Bill of Rights
+- Federalist Nos. 10 and 51
+- Brutus I
+
+# Questions
+
+## Authorship and License
+
+- Author: Tom Hanna
+- Brand: The Politics Professor
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
