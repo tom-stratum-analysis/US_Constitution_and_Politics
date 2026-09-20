@@ -1,0 +1,94 @@
+---
+title: "Lecture 10: Misinformation"
+subtitle: "USGOVT101: U.S. Constitution and Politics"
+author: "The Politics Tutor: US Politics Explained"
+date: last-modified
+format:
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "The Politics Tutor | USGOVT101"
+  docx:
+    toc: true
+    number-sections: true
+  pptx: {}
+  html:
+    toc: true
+---
+
+## Today
+
+- Misinformation vs disinformation
+- Left-coded budget memes that misuse numbers
+- Right-coded fabricated quotes and trade claims
+- Why both matter for limiting government wisely
+- How to check before you share
+
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 46px;"}
+By the end of today you will distinguish misinformation from disinformation, recognize how both left- and right-coded memes misuse numbers or invent quotes, and explain why bad information makes it harder to limit government wisely or to argue honestly for the policies you want.
+:::
+
+## Bridge from Better Angels
+
+::: {.custom-style style="font-size: 48px;"}
+Vivid claims travel. Slow corrections do not.
+:::
+
+# Definitions
+
+## Misinformation
+
+False or misleading information shared *unknowingly*.
+
+## Disinformation
+
+False or misleading information *purposely* created and distributed.
+
+# Left-coded example: defense budget memes
+
+The 55% figure is for the *discretionary* budget only. Discretionary is roughly a quarter of the total federal budget. 55% of ~27% ≈ 15% of the total federal budget.
+
+Showing only discretionary makes defense look enormous and other priorities tiny.
+
+If the core message is sound, massively misleading numbers still undermine it.
+
+# Right-coded example: fabricated quote
+
+The AOC-and-guns meme is fabricated. She did not say it. Same disease, other team: invent the quote that would be convenient.
+
+# Right-coded example: trade claims
+
+Import duties are paid by *U.S. importers* to U.S. Customs. Costs are largely passed to U.S. buyers. A trade deficit means we imported more goods than we exported — that is not the same as a business losing money with nothing in return.
+
+# So What
+
+Bad information fuels permanent crisis and reckless uses of coercive power — or blocks needed reform with noise.
+
+# How to check
+
+- Pause before sharing
+- Ask: does this number match the *total* or only a slice?
+- Ask: is this quote real? Primary source?
+- Notice your own side's bias before reacting
+- Usually correct a friend privately. Do not perform the dunk.
+
+[ground.news](https://ground.news)
+
+## Next lecture: Republic vs Democracy
+
+## Watch
+
+Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+
+## Authorship and License
+
+- Author: The Politics Tutor
+- Channel: [TikTok @us_politics_explained](https://www.tiktok.com/@us_politics_explained)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
